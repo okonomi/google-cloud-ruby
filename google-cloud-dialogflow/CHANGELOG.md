@@ -1,5 +1,16 @@
 # Release History
 
+### 0.16.0 / 2020-04-13
+
+#### ⚠ BREAKING CHANGES
+
+* **dialogflow:** use clients created by the new generator
+
+#### Features
+
+* Let Bundler.require load the gem without an extra explicit require call.
+* use clients created by the new generator
+
 ### 0.15.0 / 2020-03-11
 
 #### Features
